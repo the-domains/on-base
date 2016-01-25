@@ -1,0 +1,14 @@
+layout_spectrum: 1
+typography_spectrum: 0.3702128
+color:
+  saturation: 0.07319085
+  lightness: 0.800659
+  brandStrength: 0.8510638
+  brandColors:
+    - '#000000'
+    - '#FAF9FB'
+    - '#CEC8CE'
+    - '#4B4B4C'
+    - '#16AA59'
+  rhythmicContrast: 0.8832497
+name: On Base
