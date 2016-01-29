@@ -1,9 +1,20 @@
-layout_spectrum: 1
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 typography_spectrum: 0.3702128
 color:
-  saturation: 0.07319085
-  lightness: 0.800659
+  saturation: 0.5191489
   brandStrength: 0.8510638
+  lightness: 0.3808511
   brandColors:
     - '#000000'
     - '#FAF9FB'
@@ -11,4 +22,5 @@ color:
     - '#4B4B4C'
     - '#16AA59'
   rhythmicContrast: 0.8832497
+layout_spectrum: 1
 name: On Base
